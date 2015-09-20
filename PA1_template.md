@@ -47,7 +47,7 @@ print(stepsbydatetable, type = "html")
 ```
 
 <!-- html table generated in R 3.2.1 by xtable 1.7-4 package -->
-<!-- Sun Sep 20 19:34:49 2015 -->
+<!-- Sun Sep 20 19:42:54 2015 -->
 <table border=1>
 <tr> <th>  </th> <th> date </th> <th> steps </th>  </tr>
   <tr> <td align="right"> 1 </td> <td> 2012-10-02 </td> <td align="right"> 126 </td> </tr>
